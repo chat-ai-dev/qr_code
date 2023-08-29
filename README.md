@@ -1,4 +1,4 @@
-# My plugin
+# Qr Code
 
 Write here all the useful information about your plugin.
 

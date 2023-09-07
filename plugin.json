@@ -1,10 +1,10 @@
 {
     "name": "Gen QRCode",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Generate qrcode from data. eg: '\"qrcode https://www.baidu.com\", \"qrcode Hello World!\"'.",
     "author_name": "chat-ai-dev",
     "author_url": "https://github.com/chat-ai-dev",
     "plugin_url": "https://github.com/chat-ai-dev/qr_code",
     "tags": "qrcode, template",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/gen_regex.png"
+    "thumb": "https://raw.githubusercontent.com/chat-ai-dev/qr_code/main/qr_code.png"
 }
